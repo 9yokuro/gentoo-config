@@ -1,0 +1,2 @@
+app-editors/emacs -X gui
+app-editors/vim terminal

@@ -1,0 +1,5 @@
+# Remove files that shall not be installed from this list.
+i915/tgl_guc_70.bin
+i915/tgl_huc.bin
+i915/adls_dmc_ver2_01.bin
+rtl_nic/rtl8125b-2.fw
